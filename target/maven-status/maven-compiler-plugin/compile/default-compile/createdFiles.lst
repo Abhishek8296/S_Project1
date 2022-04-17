@@ -1,0 +1,10 @@
+com\auto\base\TestCore.class
+com\auto\Utility\getData.class
+com\auto\pageObjects\mailinatorPageObjects.class
+com\auto\base\IValues.class
+com\auto\base\ILogLevel.class
+com\auto\base\Page.class
+com\auto\base\BasePage.class
+com\auto\configProperties\ConfigProperties.class
+com\auto\pages\SignUpPage.class
+com\auto\pageObjects\SRASignUpPageObjects.class
