@@ -27,7 +27,7 @@ public class SignUp_Test_Scenarios extends TestCore {
 		
 		signUpPage.CreateAnAccount();
 		signUpPage.verificationCode();
-		signUpPage.logOutAndStartNew();
+		signUpPage.logOutAndStartNew();//test
 		
 		
 
