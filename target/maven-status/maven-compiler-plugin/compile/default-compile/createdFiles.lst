@@ -1,5 +1,6 @@
 com\auto\base\TestCore.class
 com\auto\Utility\getData.class
+com\auto\pageObjects\activateAccountObjects.class
 com\auto\pageObjects\mailinatorPageObjects.class
 com\auto\base\IValues.class
 com\auto\base\ILogLevel.class

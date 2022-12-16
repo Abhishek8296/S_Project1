@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="711.171" tests="15" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="17.0.1+12-LTS-39"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.1\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Selenium Projects\SQE"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Selenium Projects\SQE"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="17.0.1+12-LTS-39"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Abhishek\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\Abhishek Singh\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6742098231827668044.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\apache-maven-3.8.4-bin\apache-maven-3.8.4\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Kaspersky Lab\KES.11.10.0\;C:\Program Files\dotnet\;C:\Users\Abhishek\AppData\Local\Microsoft\WindowsApps;C:\Users\Abhishek\AppData\Roaming\npm;C:\Users\Abhishek\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Abhishek\AppData\Local\atom\bin;C:\Users\Abhishek\.dotnet\tools;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="61.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Abhishek"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="user.name" value="Abhishek"/>
+    <property name="java.class.path" value="C:\Users\Abhishek Singh\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.18.1.20211011-2139\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.1"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="17.0.1"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Selenium Projects\SQE\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2021-10-19"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="56.926"/>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="46.245"/>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="48.347"/>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="46.95"/>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="48.451"/>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="47.441"/>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="46.982"/>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="45.159"/>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="47.86"/>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="47.565"/>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="46.331"/>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="47.75"/>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="44.755"/>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="45.329"/>
+  <testcase name="TC_01_Verify_SignUp_E2e_Flow" classname="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios" time="45.08"/>
+</testsuite>

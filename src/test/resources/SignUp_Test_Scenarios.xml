@@ -4,6 +4,7 @@
   <test thread-count="1" name="Test">
     <classes>
       <class name="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios"/>
+
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+    </line>
+    <line>
+      <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-15T08:00:15Z" name="Suite" finished-at="2022-12-15T08:12:06Z" duration-ms="711198">
+    <groups>
+    </groups>
+    <test started-at="2022-12-15T08:00:15Z" name="Test" finished-at="2022-12-15T08:12:06Z" duration-ms="711198">
+      <class name="com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:00:10Z" name="setup" finished-at="2022-12-15T08:00:15Z" duration-ms="5224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:00:15Z" name="log" finished-at="2022-12-15T08:00:15Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:00:15Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:01:12Z" duration-ms="56925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:01:12Z" name="log" finished-at="2022-12-15T08:01:12Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:01:12Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:01:58Z" duration-ms="46247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:01:12Z" name="setScreenshot" finished-at="2022-12-15T08:01:12Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:01:58Z" name="setScreenshot" finished-at="2022-12-15T08:01:58Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:01:58Z" name="log" finished-at="2022-12-15T08:01:58Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:01:58Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:02:47Z" duration-ms="48346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:02:47Z" name="setScreenshot" finished-at="2022-12-15T08:02:47Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:02:47Z" name="log" finished-at="2022-12-15T08:02:47Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:02:47Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:03:34Z" duration-ms="46944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:03:34Z" name="setScreenshot" finished-at="2022-12-15T08:03:34Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:03:34Z" name="log" finished-at="2022-12-15T08:03:34Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:03:34Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:04:22Z" duration-ms="48455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:04:22Z" name="setScreenshot" finished-at="2022-12-15T08:04:22Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:04:22Z" name="log" finished-at="2022-12-15T08:04:22Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:04:22Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:05:10Z" duration-ms="47438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:05:10Z" name="setScreenshot" finished-at="2022-12-15T08:05:10Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:05:10Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:05:57Z" duration-ms="46982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:05:10Z" name="log" finished-at="2022-12-15T08:05:10Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:05:57Z" name="log" finished-at="2022-12-15T08:05:57Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:05:57Z" name="setScreenshot" finished-at="2022-12-15T08:05:57Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:05:57Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:06:42Z" duration-ms="45159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:06:42Z" name="log" finished-at="2022-12-15T08:06:42Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:06:42Z" name="setScreenshot" finished-at="2022-12-15T08:06:42Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:06:42Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:07:30Z" duration-ms="47859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:07:30Z" name="setScreenshot" finished-at="2022-12-15T08:07:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:07:30Z" name="log" finished-at="2022-12-15T08:07:30Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:07:30Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:08:17Z" duration-ms="47565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:08:17Z" name="setScreenshot" finished-at="2022-12-15T08:08:17Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:08:17Z" name="log" finished-at="2022-12-15T08:08:17Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:08:17Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:09:04Z" duration-ms="46331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:09:04Z" name="setScreenshot" finished-at="2022-12-15T08:09:04Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:09:04Z" name="log" finished-at="2022-12-15T08:09:04Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:09:04Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:09:51Z" duration-ms="47749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:09:51Z" name="setScreenshot" finished-at="2022-12-15T08:09:51Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:09:51Z" name="log" finished-at="2022-12-15T08:09:51Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:09:51Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:10:36Z" duration-ms="44755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:10:36Z" name="setScreenshot" finished-at="2022-12-15T08:10:36Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:10:36Z" name="log" finished-at="2022-12-15T08:10:36Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:10:36Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:11:21Z" duration-ms="45329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="log(java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:11:21Z" name="log" finished-at="2022-12-15T08:11:21Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Started|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:11:21Z" name="setScreenshot" finished-at="2022-12-15T08:11:21Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method signature="TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:11:21Z" name="TC_01_Verify_SignUp_E2e_Flow" finished-at="2022-12-15T08:12:06Z" duration-ms="45081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_SignUp_E2e_Flow -->
+        <test-method is-config="true" signature="setScreenshot(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:12:06Z" name="setScreenshot" finished-at="2022-12-15T08:12:06Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_Verify_SignUp_E2e_Flow status=SUCCESS method=SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios.TC_01_Verify_SignUp_E2e_Flow() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>Test [TC_01_Verify_SignUp_E2e_Flow] Finished|</font></b>]]>
+            </line>
+            <line>
+              <![CDATA[<br/> <b>TESTCASE:<font color='Green'>--------------------------------------------------------|</font></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method is-config="true" signature="terminateDriver()[pri:0, instance:com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios@5e316c74]" started-at="2022-12-15T08:12:06Z" name="terminateDriver" finished-at="2022-12-15T08:12:07Z" duration-ms="607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateDriver -->
+      </class> <!-- com.auto.Homepage_Test_Scenario.SignUp_Test_Scenarios -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2022-12-15T08:12:07Z" name="SRA Automation" finished-at="2022-12-15T08:12:07Z" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- SRA Automation -->
+</testng-results>

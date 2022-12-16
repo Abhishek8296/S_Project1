@@ -13,6 +13,7 @@ import com.auto.base.BasePage;
 import com.auto.base.ILogLevel;
 import com.auto.base.TestCore;
 import com.auto.pageObjects.SRASignUpPageObjects;
+import com.auto.pageObjects.activateAccountObjects;
 import com.auto.pageObjects.mailinatorPageObjects;
 import com.github.javafaker.Faker;
 import com.relevantcodes.extentreports.LogStatus;
@@ -21,7 +22,8 @@ public class SignUpPage extends BasePage{
 
 	int randomNum =  (int)(Math.random() * 2000);
 	Faker faker = new Faker();
-	String fname = faker.name().firstName();
+//	String fname = faker.name().firstName();
+	String fname = "Clark";
 	String lname = faker.name().lastName();
 	String email = fname.toLowerCase() + lname.toLowerCase() +randomNum+ "@mailinator.com";
 	String userName = "PP_"+fname+randomNum;
@@ -51,7 +53,7 @@ public class SignUpPage extends BasePage{
 		driver.findElement(By.cssSelector(SRASignUpPageObjects.password)).sendKeys("Damco123");
 		driver.findElement(By.cssSelector(SRASignUpPageObjects.confirmPassword)).sendKeys("Damco123");
 		driver.findElement(By.cssSelector(SRASignUpPageObjects.email)).sendKeys(email);
-		driver.findElement(By.cssSelector(SRASignUpPageObjects.sendVerificationCodeButton)).click();
+		driver.findElement(By.cssSelector(SRASignUpPageObjects.sendVerificationCodeButton)).click();		
 	}
 
 	public void verificationCode() throws InterruptedException {
@@ -75,6 +77,7 @@ public class SignUpPage extends BasePage{
 		String[] updated = verificationCode.split(":");
 		String code = updated[1].trim();
 		Thread.sleep(3000);
+		driver.close();
 		driver.switchTo().window(tabs.get(0)); // switch back to main screen
 		driver.findElement(By.cssSelector(SRASignUpPageObjects.verificationCode)).sendKeys(code);
 		Thread.sleep(5000);
@@ -89,7 +92,24 @@ public class SignUpPage extends BasePage{
 		driver.findElement(By.cssSelector(SRASignUpPageObjects.personalAddress)).sendKeys((state)+Keys.ENTER);
 		Thread.sleep(5000);
 		driver.findElement(By.cssSelector(SRASignUpPageObjects.saveButton)).click();
+		Thread.sleep(2000);
 	}
+	
+	public void logOutAndStartNew() throws InterruptedException {
+	driver.findElement(By.xpath(SRASignUpPageObjects.logoutButton)).click();
+	Thread.sleep(3000);
+	driver.get("https://mysra-orange.sranonprod.org.uk/");
+	}
+	
+	
+	public void activateAccount() throws InterruptedException {
+		driver.findElement(By.cssSelector(activateAccountObjects.accountActivateLink)).click();
+		driver.findElement(By.cssSelector(activateAccountObjects.SRAnumber)).sendKeys("");
+		driver.findElement(By.cssSelector(activateAccountObjects.activationCode)).sendKeys("");
+		driver.findElement(By.cssSelector(activateAccountObjects.activateButton)).click();
+	}
+	
+	
 
 //	public void resumeSignUp() {
 //		driver.findElement(By.cssSelector(SRASignUpPageObjects.verificationCode)).sendKeys(formattedName);

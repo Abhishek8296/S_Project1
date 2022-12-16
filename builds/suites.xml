@@ -5,6 +5,7 @@
 	     <suite-file
             path=".//src/test/resources/SignUp_Test_Scenarios.xml">
         </suite-file>
+
    	</suite-files>
 	
 

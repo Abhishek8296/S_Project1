@@ -2,12 +2,10 @@ package com.auto.pageObjects;
 
 public class SRASignUpPageObjects {
 
-	//Booking Section Test Data
-	public static String departFromValue = "BLR";
-
-
-	//Booking Section Locators
-	public static String signupLink = "a[href*='sranonprod.org.uk//aad/signup']";
+	
+	//Locators
+	public static String signupLink = "a[href*='sranonprod.org.uk/aad/signup']";
+//	public static String signupLink = "a[href=\"https://mysra-gold.sradev.org.uk/aad/signup?ngsw-bypass=true\"]";
 	public static String userName = "input[id=\"UserId\"]";
 	public static String password= "input[id=\"newPassword\"]";
 	public static String confirmPassword = "input[id=\"reenterPassword\"]";
@@ -23,7 +21,9 @@ public class SRASignUpPageObjects {
 	public static String contactEmail = "input[id*=\"emailaddress\"]";
 	public static String personalAddress = "input[placeholder*=\"Enter the first line of your address\"]";
 	public static String saveButton = "button.btn.btn-primary.btn-md.save-continue";
+	public static String logoutButton = "//button[text()=\" Logout \"]";
 	public static String loader = "svg[id=\"Layer_1\"]";
+	public static String test = "gsahg";
 //	public static String enterAddressManually = "button[name=\"data[notintheUKorwanttoentertheaddressmanually]\"]";
 //	public static String addressLine1 = "input[id*=\"addressLine1\"]";
 //	public static String city = "input[id*=\"addressCity\"]";

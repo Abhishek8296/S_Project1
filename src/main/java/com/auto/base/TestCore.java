@@ -43,7 +43,6 @@ public class TestCore extends Page {
 	public static WebDriver driver;
 	public static String SCREENSHOT_FOLDER = "target/screenshots/";
 	public static final String SCREENSHOT_FORMAT = ".png";
-	private static final org.openqa.selenium.Dimension Dimension = null;
 	private String testUrl;
 	private String targetBrowser;
 	private String os;
@@ -92,7 +91,7 @@ public class TestCore extends Page {
 				prefs.put("profile.default_content_setting_values.notifications", 2);
 				ChromeOptions options = new ChromeOptions();
 				options.setExperimentalOption("prefs", prefs);
-				options.setHeadless(true);   //set true for chrome headless
+				options.setHeadless(false);   //set true for chrome headless
 				options.addArguments("disable-popup-blocking");
 				driver = new ChromeDriver(options);
 			}

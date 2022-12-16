@@ -4,6 +4,8 @@ import java.io.IOException;
 
 import org.testng.annotations.Test;
 
+//import org.testng.annotations.Test;
+
 import com.auto.base.BasePage;
 import com.auto.base.TestCore;
 import com.auto.pages.SignUpPage;
@@ -13,8 +15,8 @@ public class SignUp_Test_Scenarios extends TestCore {
 	SignUpPage signUpPage;
 
 
-//	@Test
-	  @Test(invocationCount=5)
+//	 @Test
+	  @Test(invocationCount=15)
 	public void TC_01_Verify_SignUp_E2e_Flow() throws IOException, InterruptedException {
 		basePage = new BasePage(driver);
 		signUpPage = new SignUpPage(driver);
@@ -22,32 +24,12 @@ public class SignUp_Test_Scenarios extends TestCore {
 
 //		signUpPage.VerifySiteUrl(); // verify site url
 //		TestCore.test.log(LogStatus.PASS, "Verify site Url", "Site Url verified successfully");
-
+		
 		signUpPage.CreateAnAccount();
 		signUpPage.verificationCode();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+		signUpPage.logOutAndStartNew();
+		
+		
 
 
 //		bookingSectionPage.SelectDepartFromCity(); // select Bangalore from departure field
