@@ -91,7 +91,7 @@ public class TestCore extends Page {
 				prefs.put("profile.default_content_setting_values.notifications", 2);
 				ChromeOptions options = new ChromeOptions();
 				options.setExperimentalOption("prefs", prefs);
-				options.setHeadless(false);   //set true for chrome headless
+				options.setHeadless(true);   //set true for chrome headless
 				options.addArguments("disable-popup-blocking");
 				driver = new ChromeDriver(options);
 			}
